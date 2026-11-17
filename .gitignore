@@ -1,0 +1,31 @@
+# Virtual environment (recreate with: uv venv && uv pip install numpy pandas scikit-learn scipy matplotlib streamlit)
+.venv/
+venv/
+env/
+
+# Python caches and build output
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Run logs and scratch files
+*.log
+tmp/
+scratch/
+
+# Streamlit local config that may hold secrets
+.streamlit/secrets.toml
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Claude Code local settings
+.claude/
+
+# NOTE: these are deliberately NOT ignored, because the app and report use them:
+#   diabetes.csv, model.npz, hybrid_model.npz, results_*.md/.csv, figs/, fig_*.png
