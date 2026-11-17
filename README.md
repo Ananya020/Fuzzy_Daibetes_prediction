@@ -297,7 +297,7 @@ The full reference list is in [`RESEARCH_PAPER.md`](RESEARCH_PAPER.md).
 
 <div align="center">
 
-**Author:** [Your name] · [Institution] · **Guide:** [Teacher's name]
-**License:** [add a `LICENSE` file, e.g. MIT, before publishing]
+**Author:** Ananya Agrawal 
+**License:** will add later
 
 </div>
